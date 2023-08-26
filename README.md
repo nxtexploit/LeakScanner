@@ -33,7 +33,7 @@ LeakScanner is a Bash script inspired by Gitleaks that allows you to scan multip
 
 ## Prerequisites
 
-To perform leak detection, you need to Install [GitLeaks](https://github.com/gitleaks/gitleaks) first. In order to Install this:
+To perform leak detection, you need to Install [GitLeaks](https://github.com/gitleaks/gitleaks#installing) first. In order to Install this:
 1. Clone this repository to your local machine
     ```bash
     git clone https://github.com/gitleaks/gitleaks.git
@@ -46,7 +46,7 @@ To perform leak detection, you need to Install [GitLeaks](https://github.com/git
     ```bash
     make build
     ```
-Or follow the instructions on the [GitLeaks](https://github.com/gitleaks/gitleaks) GitHub repository for your platform.
+Or follow the instructions on the [GitLeaks](https://github.com/gitleaks/gitleaks#installing) GitHub repository for your platform.
 
 ## Usage
 
