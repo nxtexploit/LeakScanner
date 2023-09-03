@@ -6,8 +6,9 @@
 
 <h4 align="center">Scan All GitHub Repositories at Once: Effortless Leak Detection</h4>
 
-
-LeakScanner is a Bash script inspired by Gitleaks, that allows you to scan multiple GitHub repositories at once for sensitive information leaks like passwords, api keys, and tokens. It automates the process of running the Gitleaks tool to detect potential leaks in each repository.
+<p align="center">
+  LeakScanner is a Bash script inspired by Gitleaks, that allows you to scan multiple GitHub repositories at once for sensitive information leaks like passwords, api keys, and tokens. It automates the process of running the Gitleaks tool to detect potential leaks in each repository.
+  <p>
 
 <h1 align="center">
   <br>
