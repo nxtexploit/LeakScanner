@@ -89,5 +89,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 The MIT License is a permissive open-source license that allows you to do almost anything with the code. It gives you permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nxtexploit&style=flat&color=yellow" alt=cyan/> </p>
 
